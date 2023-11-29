@@ -1,5 +1,5 @@
 Air Pollution Correlation Analysis
-This GitHub repository contains a Python script for analyzing the correlation between carbon monoxide (CO) levels and ozone (O3) levels in air pollution data. The script calculates the correlation coefficient using the Pearson correlation formula.
+This  repository contains a Python script for analyzing the correlation between carbon monoxide (CO) levels and ozone (O3) levels in air pollution data. The script calculates the correlation coefficient using the Pearson correlation formula.
 
 Key Components:
 Data Source:
