@@ -20,8 +20,8 @@ with open("airpolution.txt")as file :
     
     for line in file:
         data = line.strip().split("\t")
-        if len(data) == 6 and data[0]!="Ville":
-            ville, mois , annee, co, o3, temperature = data
+        if len(data) == 6 and data[0]!="City":
+            City, Month , Year, co, o3, temperature = data
             co_float = float(co)
             temperature_float = float(temperature)
             n +=1

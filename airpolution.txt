@@ -1,4 +1,4 @@
-Ville	Mois	Annee	CO	O3	Temperature
+City	Month	Year	CO	O3	Temperature
 Fez	1	2005	8.574	209.702	25
 Fez	1	2005	5.631	268.108	28
 Fez	1	2005	10.065	244.953	18
