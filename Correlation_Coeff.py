@@ -16,6 +16,7 @@ sum_x = 0
 sum_y = 0
 sum_x2 =0
 sum_y2 =0
+m=0
 with open("airpolution.txt")as file : 
     
     for line in file:
